@@ -1,0 +1,5 @@
+[dev]
+54.162.220.113
+[dev:vars]
+s3code=cloudsloud-39591
+domain=cloudsloud
